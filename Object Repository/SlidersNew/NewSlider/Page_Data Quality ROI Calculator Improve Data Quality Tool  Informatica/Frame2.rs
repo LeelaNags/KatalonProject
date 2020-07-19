@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Frame2</name>
+   <tag></tag>
+   <elementGuidId>2ba0c5c9-962a-46b5-8640-894ab9f9a61d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page_1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1How would you rate your data quality score today?help_outlineMost organizations without a strong data quality program rate around 75%.0%0%100%02550751002How many customer records do you have today?*press ENTERThis question is mandatory.3How much does it cost to acquire a new customer?*help_outlineIf you don't know, you can use $250 for a new B2B customer and $150 for a new B2C customer$press ENTER4What is the average selling price of your product?*$press ENTER Next Scroll Down for Resultsarrow_downward</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/temp[1]/sound-cloud-v3[1]/div[@class=&quot;sound-cloud-new V1&quot;]/div[1]/div[@class=&quot;overlay-outer questionnaire has-background backg_page_1 isIframe&quot;]/div[1]/div[@class=&quot;has-background-tint&quot;]/div[@class=&quot;page_1&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SlidersNew/NewSlider/Page_Data Quality ROI Calculator Improve Data Quality Tool  Informatica/iframe_Data Quality ROI Calculator_og_iframe</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
